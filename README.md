@@ -1,5 +1,5 @@
-# CSC-SWE-CEDAH
-Software Engineering (CTW) Group Project: Scheduling Engine
+# MeetUP
+Software Engineering Group Project: Scheduling Engine
 
 # How to run this project locally
 ***
